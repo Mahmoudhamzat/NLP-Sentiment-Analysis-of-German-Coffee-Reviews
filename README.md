@@ -1,14 +1,10 @@
 # NLP-Sentiment-Analysis-of-German-Coffee-Reviews
-
-Sure! Here’s a detailed `README.md` template in English:
-
 ```markdown
 # Coffee Review Sentiment Classification Project
 
 Welcome to the Coffee Review Sentiment Classification Project! This project aims to analyze the sentiment of coffee reviews using natural language processing (NLP) techniques and machine learning. It relies on Python libraries such as `pandas`, `NumPy`, and `scikit-learn`, along with `spaCy` for text processing.
 
 ## Table of Contents
-
 - [Description](#description)
 - [Requirements](#requirements)
 - [Files](#files)
@@ -40,7 +36,6 @@ You can install the required libraries using:
 pip install numpy pandas scikit-learn spacy joblib
 python -m spacy download de_core_news_sm
 ```
-
 ## Files
 
 - `kaffee_reviews.csv`: A file containing coffee reviews.
